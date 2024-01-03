@@ -1,0 +1,5 @@
+#ignoring all files except rust files
+Cargo.lock
+Cargo.toml
+.idea
+target
